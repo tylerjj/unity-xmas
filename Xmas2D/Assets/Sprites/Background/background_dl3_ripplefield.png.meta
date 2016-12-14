@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: dd0bd20dbb628ca458747bdac1275ba9
+timeCreated: 1481229439
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: background_dl3_ripplefield_0
+    21300002: background_dl3_ripplefield_1
+    21300004: background_dl3_ripplefield_2
+    21300006: background_dl3_ripplefield_3
+    21300008: background_dl3_ripplefield_4
+    21300010: background_dl3_ripplefield_5
+    21300012: background_dl3_ripplefield_6
+    21300014: background_dl3_ripplefield_7
+    21300016: background_dl3_ripplefield_8
+    21300018: background_dl3_ripplefield_9
+    21300020: background_dl3_ripplefield_10
+    21300022: background_dl3_ripplefield_11
+    21300024: background_dl3_ripplefield_12
+    21300026: background_dl3_ripplefield_13
+    21300028: background_dl3_ripplefield_14
+    21300030: background_dl3_ripplefield_15
+    21300032: background_dl3_ripplefield_16
+    21300034: background_dl3_ripplefield_17
+    21300036: background_dl3_ripplefield_18
+    21300038: background_dl3_ripplefield_19
+    21300040: background_dl3_ripplefield_20
+    21300042: background_dl3_ripplefield_21
+    21300044: background_dl3_ripplefield_22
+    21300046: background_dl3_ripplefield_23
+    21300048: background_dl3_ripplefield_24
+    21300050: background_dl3_ripplefield_25
+    21300052: background_dl3_ripplefield_26
+    21300054: background_dl3_ripplefield_27
+    21300056: background_dl3_ripplefield_28
+    21300058: background_dl3_ripplefield_29
+    21300060: background_dl3_ripplefield_30
+    21300062: background_dl3_ripplefield_31
+    21300064: background_dl3_ripplefield_32
+    21300066: background_dl3_ripplefield_33
+    21300068: background_dl3_ripplefield_34
+    21300070: background_dl3_ripplefield_35
+    21300072: background_dl3_ripplefield_36
+    21300074: background_dl3_ripplefield_37
+    21300076: background_dl3_ripplefield_38
+    21300078: background_dl3_ripplefield_39
+    21300080: background_dl3_ripplefield_40
+    21300082: background_dl3_ripplefield_41
+    21300084: background_dl3_ripplefield_42
+    21300086: background_dl3_ripplefield_43
+    21300088: background_dl3_ripplefield_44
+    21300090: background_dl3_ripplefield_45
+    21300092: background_dl3_ripplefield_46
+    21300094: background_dl3_ripplefield_47
+    21300096: background_dl3_ripplefield_48
+    21300098: background_dl3_ripplefield_49
+    21300100: background_dl3_ripplefield_50
+    21300102: background_dl3_ripplefield_51
+    21300104: background_dl3_ripplefield_52
+    21300106: background_dl3_ripplefield_53
+    21300108: background_dl3_ripplefield_54
+    21300110: background_dl3_ripplefield_55
+    21300112: background_dl3_ripplefield_56
+    21300114: background_dl3_ripplefield_57
+    21300116: background_dl3_ripplefield_58
+    21300118: background_dl3_ripplefield_59
+    21300120: background_dl3_ripplefield_60
+    21300122: background_dl3_ripplefield_61
+    21300124: background_dl3_ripplefield_62
+    21300126: background_dl3_ripplefield_63
+    21300128: background_dl3_ripplefield_64
+    21300130: background_dl3_ripplefield_65
+    21300132: background_dl3_ripplefield_66
+    21300134: background_dl3_ripplefield_67
+    21300136: background_dl3_ripplefield_68
+    21300138: background_dl3_ripplefield_69
+    21300140: background_dl3_ripplefield_70
+    21300142: background_dl3_ripplefield_71
+    21300144: background_dl3_ripplefield_72
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1036
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1036
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 868
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 868
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 700
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 700
+        width: 256
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 532
+        width: 512
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 467
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 368
+        width: 510
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 234
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 510
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 256
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 268
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_16
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 218
+        width: 4
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1
+        width: 256
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 176
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 155
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 115
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 65
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 63
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 65
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_26
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 65
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 65
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 65
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_33
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 65
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_38
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 65
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 65
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 65
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_43
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 53
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_47
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_48
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 53
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_49
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 51
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 51
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_53
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 53
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 53
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_58
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_59
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 53
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_60
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 51
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 53
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 53
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 53
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_65
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 53
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_69
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 41
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_71
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: background_dl3_ripplefield_72
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
