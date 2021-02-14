@@ -10,7 +10,7 @@ public class PlayerManager : MonoBehaviour
 	bool jumping;    
 	float speed;
 
-    SpriteRenderer spr;    
+    	SpriteRenderer spr;    
 	Animator anim;    
 	Rigidbody2D rb;    
 	int prevState;    
@@ -54,91 +54,91 @@ public class PlayerManager : MonoBehaviour
 		if (Input.GetKeyUp(KeyCode.LeftArrow))
 		{
 			if (!facingRight)
-            {
+            		{
 				// we don't want character to move anymore
-                speed = speedX + speed;
-                prevState = currState;
-                currState = 0;
-                anim.SetInteger("State", currState);
+               			 speed = speedX + speed;
+                		prevState = currState;
+                		currState = 0;
+                		anim.SetInteger("State", currState);
 			}
 		}
 
-        // right player movement
-        if (Input.GetKeyDown(KeyCode.RightArrow))    
+		// right player movement
+		if (Input.GetKeyDown(KeyCode.RightArrow))    
 		{   
 			if (!facingRight)
-            {
-                spr.flipX = false;
-                facingRight = true;
-            }
-            prevState = currState;
-            currState = 2;
-            anim.SetInteger("State", currState);         
+			{
+				spr.flipX = false;
+				facingRight = true;
+			}
+			prevState = currState;
+			currState = 2;
+			anim.SetInteger("State", currState);         
 			speed = speedX;    
 		}
 		if (Input.GetKeyUp(KeyCode.RightArrow))  
 		{
-            if (facingRight)
-            {
-                // we don't want character to move anymore
-                speed = speedX - speed;
-                prevState = currState;
-                currState = 0;
-                anim.SetInteger("State", currState);
-            }
+		    if (facingRight)
+		    {
+			// we don't want character to move anymore
+			speed = speedX - speed;
+			prevState = currState;
+			currState = 0;
+			anim.SetInteger("State", currState);
+		    }
 		}
 
-        // jump movement
-        if (Input.GetKeyDown(KeyCode.UpArrow))
-        {
-            if (!jumping)
-            {
-                jumping = true;
-                anim.SetInteger("State", 3);
-                // this adds a force in the vertical direction.
-                rb.AddForce(new Vector2(rb.velocity.x, jumpSpeedY));
-            }
-        }
-		
-        if (Input.GetKeyDown(KeyCode.DownArrow))
-        {
-            prevState = currState;
-            currState = 1;
-            anim.SetInteger("State", currState);
-        }
-        if (Input.GetKeyUp(KeyCode.DownArrow))
-        {
-            prevState = currState;
-            currState = 0;
-            anim.SetInteger("State", currState);
-        }
+		// jump movement
+		if (Input.GetKeyDown(KeyCode.UpArrow))
+		{
+		    if (!jumping)
+		    {
+			jumping = true;
+			anim.SetInteger("State", 3);
+			// this adds a force in the vertical direction.
+			rb.AddForce(new Vector2(rb.velocity.x, jumpSpeedY));
+		    }
+		}
+
+		if (Input.GetKeyDown(KeyCode.DownArrow))
+		{
+		    prevState = currState;
+		    currState = 1;
+		    anim.SetInteger("State", currState);
+		}
+		if (Input.GetKeyUp(KeyCode.DownArrow))
+		{
+		    prevState = currState;
+		    currState = 0;
+		    anim.SetInteger("State", currState);
+		}
         
-    }
+    	} // End of Update
 	
 	void MovePlayer(float playerSpeed)
 	{
-        if (!jumping)
-        {
-            // code for player movement
-            rb.velocity = new Vector3(speed, rb.velocity.y, 0);
-        }
+		if (!jumping)
+		{
+			// code for player movement
+			rb.velocity = new Vector3(speed, rb.velocity.y, 0);
+		}
 		else
-        {
-            rb.velocity = new Vector3(speed / 2, rb.velocity.y, 0);
-        }
-	}
+		{
+			rb.velocity = new Vector3(speed / 2, rb.velocity.y, 0);
+		}
+	} // End of MovePlayer
 	
 	void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (jumping)
-        {
-            if (collision.gameObject.tag == "GROUND")
-            {
-                jumping = false;
-                prevState = currState;
-                anim.SetInteger("State", currState);
+	{
+        	if (jumping)
+        	{
+            		if (collision.gameObject.tag == "GROUND")
+            		{
+                		jumping = false;
+                		prevState = currState;
+                		anim.SetInteger("State", currState);
                
-            }
-        }
-    }
+            		}
+        	}
+    	} // End of OnCollisionEnter2D
 }
