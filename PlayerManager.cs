@@ -1,14 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-// 2021 Update:
-//  Author: Tyler Johnston
-//  Note On Formatting: 
-//        Not sure why LineSeperator characters are showing up.
-//        This file's indentation and newlines were saved in an
-//        unfamiliar format. Possibly from scripting in an IDE.
-//        My attempts to rectify this might result in multiple
-//        newline characters. 
+
 public class PlayerManager : MonoBehaviour
 {    
 	public float speedX;    
